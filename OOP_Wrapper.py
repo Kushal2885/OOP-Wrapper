@@ -84,9 +84,6 @@ while True:
                         emp.getInfo()
             else:
                 print("No developer created.")
-
-        else:
-                print("No employee created.")
     elif choice == 5:
         print("Exiting the program.")
         break
